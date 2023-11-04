@@ -3,7 +3,6 @@
 
 ## Overview 👀
 
-![](.gitres/cover.png)
 
 - **Topic wise question search 🔍**
 - **Topic wise progress 🧐**
